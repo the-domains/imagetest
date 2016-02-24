@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A site for testing Grid images]]></title>
         <description><![CDATA[A site for testing Grid images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/imagetest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 02:52:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 02:55:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/imagetest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe8f7003-54b7-4728-9aab-a20563c7d474.jpg">]]></description>
+            <link>https://thegrid.ai/imagetest/7b0ea8f8-4c1b-4df5-ab9a-a66a7bfa30b4/index.html</link>
+            <guid isPermaLink="false">7b0ea8f8-4c1b-4df5-ab9a-a66a7bfa30b4</guid>
+            <pubDate>Wed, 24 Feb 2016 02:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[View from above]]></title>
             <description><![CDATA[<article><h1>View from above</h1><p>From above</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/046caf17b830c2d5d1372539e8748684c0550e59.jpg"></article>]]></description>
-            <link>undefinedview-from-above/index.html</link>
+            <link>https://thegrid.ai/imagetest/view-from-above/index.html</link>
             <guid isPermaLink="false">e035a32c-b787-4307-b365-a0e080592184</guid>
             <pubDate>Wed, 24 Feb 2016 02:52:24 GMT</pubDate>
         </item>
