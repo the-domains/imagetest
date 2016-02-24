@@ -1,0 +1,28 @@
+name: ImageTest
+favicon: null
+layout_spectrum: 0.5134085884783417
+typography_spectrum: 0.35204302961938083
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8882563286460936
+  lightness: 0.9922548173926771
+  saturation: 0.6051336266100407
+  rhythmicContrast: 0.8730034541804343
+purpose: []
